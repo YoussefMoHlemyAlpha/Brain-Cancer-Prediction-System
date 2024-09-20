@@ -1,4 +1,7 @@
 # Brain Tumor MRI Classification using CNN
+![image](https://github.com/user-attachments/assets/597fea74-c99a-4bdc-b961-61aa6bd6cf49)
+![image](https://github.com/user-attachments/assets/40a304a7-d74c-4679-b2fd-fe2dceae2b99)
+
 ## This project classifies brain tumor MRI scans into four categories using a Convolutional Neural Network (CNN). The categories are:
 
 ### Healthy Brain
